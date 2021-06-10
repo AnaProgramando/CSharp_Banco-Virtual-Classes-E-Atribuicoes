@@ -12,7 +12,7 @@ Olá, seja muito bem vinda(o)!
 📝 Exercício - Classes e Atribuições em C# (CSharp):
 
 - Crie um novo projeto no Visual Studio do tipo "Aplicativo do Console (.Net Framework)" em C#. Exemplo de nome: BancoVirtual;
-- Clique em "Novo item", selecione "Arquivo de código", nomeie e adicione ao seu projeto para criar uma classe. Exemplo de nome: ContaCorrente;
+- Clique em "Novo item", selecione "Classe", nomeie e adicione ao seu projeto para criar uma classe. Exemplo de nome: ContaCorrente;
 - Crie os atributos que julgar necessários. Exemplo: titular, agencia, numConta e saldo;
 - Defina todos como "public";
 - Defina quais serão string, int e double;
