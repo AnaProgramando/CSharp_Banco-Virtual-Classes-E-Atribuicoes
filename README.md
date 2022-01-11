@@ -1,31 +1,77 @@
-# <img align="center" alt="Ana-Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> CSharp - Projeto de Banco Virtual - Classes e  Atribuições
+![banner_Banco-Virtual-Classes-E-Atribuicoes](https://github.com/AnaProgramando/CSharp_Banco-Virtual-Classes-E-Atribuicoes/blob/5a04e842143dc5c04742c630cbf0f99ebc56bc98/banner_Banco-Virtual-Classes-E-Atribuicoes.png)
+----
 
-Olá, seja muito bem vinda(o)!
+<img src="https://img.shields.io/static/v1?label=Status&message=complete&color=32CD32&style=for-the-badge"/>
+
+<p align="center"> O curso desse projeto está disponível na Plataforma da <a href="https://www.alura.com.br/" > Alura </a> </p>
+
+<p align="center">
+ <a href="#-welcome">Welcome</a> |
+ <a href="#-refer%C3%AAncias">Referências</a> | 
+ <a href="#-d%C3%BAvidas">Dúvidas</a> | 
+ <a href="#%EF%B8%8F-contatos">Contatos</a> | 
+ <a href="#%EF%B8%8F-autora">Autora</a>
+</p>
+
+# 🤗 Welcome
+
+Olá, seja muito bem vinda(o)! 
+
+Tive a ideia de compartilhar alguns projetos para quem tem interesse em aprender C# (C Sharp), por isso os exercícios começam bem simples e vão dificultando aos poucos para quem gostaria de iniciar na programação ou precisa melhorar as suas habilidades, e também coloquei alguns comentários para facilitar o entendimento.
 
 📚 Aproveite o código desse exercício
-<br>
-👩‍💻 Refaça ele do seu jeito
-<br>
+
+👩‍💻 Refaça do seu jeito
+
 😉 Se tiver qualquer dúvida, me contate
 
+
+## ✍ Referências
+
+📗 [MSDN](https://docs.microsoft.com/pt-br/?redirectedfrom=MSDN)
 <br>
-📝 Exercício - Classes e Atribuições em C# (CSharp):
+Central de documentação e aprendizado da Microsoft para desenvolvedores
 
-- Crie um novo projeto no Visual Studio do tipo "Aplicativo do Console (.Net Framework)" em C#. Exemplo de nome: BancoVirtual;
-- Clique em "Novo item", selecione "Classe", nomeie e adicione ao seu projeto para criar uma classe. Exemplo de nome: ContaCorrente;
-- Crie os atributos que julgar necessários. Exemplo: titular, agencia, numConta e saldo;
-- Defina todos como "public";
-- Defina quais serão string, int e double;
-- Instancie uma ContaCorrente em "Program.cs". Exemplo: ContaCorrente contaFulano = new ContaCorrente();
-- Atribua um valor (Ex: 100) ao saldo da [contaFulano] e imprima para confirmar que está correto.
-- Adicione outro um valor (Ex: 200.05) a [contaFulano] e imprima para validar.
+📒 [Documentação do C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
+<br>
+Saiba como escrever qualquer aplicativo usando a linguagem de programação C# na plataforma .NET.
 
+## ❓ Dúvidas
+
+Qualquer dúvida, interaja aqui:
+  * Faça perguntas
+  * Dê sugestões de melhoria para o projeto
+  * Compartilhe suas ideias
+  * E interaja sobre o assunto
+
+😉Lembre-se de que esta é uma comunidade que construímos juntos 💪.
+
+## ✉️ Contatos
+
+Se precisar de ajuda, entre em contato comigo 😉
+
+[<img align="left" alt="Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:anabe.valentim@gmail.com)
+[<img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ana-beatriz-valentim)
+[<img align="left" alt="Beacons" width="80px" src="https://github.com/AnaProgramando/AnaProgramando/blob/31ac40741768033915a37ec0f949984bf6aad2d1/beacons_logo.png"/>](https://beacons.page/anaprogramando)
 <br>
 
-- Instancie uma nova ContaCorrente em "Program.cs". Exemplo: ContaCorrente contaBeltrano = new ContaCorrente();
-- Atribua um valor (Ex: 150) ao saldo da [contaBeltrano] e imprima para confirmar que está correto.
-- Retire um valor (Ex: 99.08) da [contaBeltrano] e imprima para validar.
+
+## 🙋‍♀️ Autora
+
+<div>
+  <img align="left" alt="Ana Valentim" width="100px" src="https://avatars.githubusercontent.com/u/31097110?v=4"/>
+</div>
 
 <br>
+✏️ Feito com ❤️ e C# (C Sharp) por <a href="https://github.com/AnaProgramando">Ana Valentim</a>.
 
-- Finalize com "Console.ReadLine()" para pausar a execução do programa antes de limpar o console e solicitar que o usuário pressione a tecla Enter antes de encerrar o aplicativo, assim é possível visualizar o resultado da execução do exercício sem que ele suma. 
+💙 Se você gostou desse projeto, dê uma ⭐ e compartilhe!
+
+
+<br><br>
+[⬆ Voltar ao top](https://github.com/AnaProgramando/CSharp_array-tipo-generico/blob/main/README.md#) <br>
+
+
+ <div>
+  <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/AnaProgramando/CSharp_Banco-Virtual-Classes-E-Atribuicoes/blob/92cce8c959b462aa06224ca33a439cbc1d179953/i.gif"/>
+</div>
